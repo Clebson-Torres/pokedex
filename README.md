@@ -9,7 +9,7 @@ O projeto consiste em uma página web simples que lista Pokémons, obtendo os da
 ## Funcionalidades
 
 *   **Listagem de Pokémons:** A página exibe uma lista de Pokémons.
-*   **Consumo de API:** Os dados dos Pokémons são obtidos através de uma API externa (provavelmente a PokeAPI).
+*   **Consumo de API:** Os dados dos Pokémons são obtidos através de uma API externa chamada PokeAPI.
 * **Design responsivo**: projeto se adapta a diferentes tamanhos de tela.
 * **Fonte do Google**: para deixar o design mais bonito, está sendo utilizado uma fonte do google.
 
@@ -24,7 +24,7 @@ O projeto consiste em uma página web simples que lista Pokémons, obtendo os da
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [URL_DO_SEU_REPOSITORIO]
+    git clone https://github.com/Clebson-Torres/pokedex
     ```
 2.  **Abra o arquivo `index.html`:** Navegue até a pasta do projeto e abra o arquivo `index.html` com o seu navegador preferido.
 
@@ -52,4 +52,4 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 
 ## Licença
 
-Este projeto está licenciado sob a Licença [Escolha a sua Licença, Ex: MIT]. Consulte o arquivo `LICENSE` para mais detalhes.
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo `LICENSE` para mais detalhes.
