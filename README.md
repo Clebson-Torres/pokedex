@@ -24,7 +24,7 @@ O projeto consiste em uma página web simples que lista Pokémons, obtendo os da
 
 1.  **Clone o repositório:**
     ```bash
-    git clone https://github.com/Clebson-Torres/pokedex
+    git clone https://github.com/Clebson-Torres/pokedex.git
     ```
 2.  **Abra o arquivo `index.html`:** Navegue até a pasta do projeto e abra o arquivo `index.html` com o seu navegador preferido.
 
