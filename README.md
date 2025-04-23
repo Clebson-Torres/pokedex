@@ -48,7 +48,7 @@ Contribuições são bem-vindas! Se você tiver sugestões de melhorias ou encon
 
 ## Autor
 
-[Seu Nome] - [Seu Link para Github ou Linkedin]
+Clebson Torres - github.com/Clebson-Torres
 
 ## Licença
 
